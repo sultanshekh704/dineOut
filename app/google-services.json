@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557053694330",
+    "project_id": "dineout-496e9",
+    "storage_bucket": "dineout-496e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557053694330:android:0258b6cf3a45bcc94c06c3",
+        "android_client_info": {
+          "package_name": "com.dineout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzfB7W1cc9VTxH3BKh5Vu0DCkIFjkfuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
